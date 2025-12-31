@@ -4,9 +4,9 @@ A simple repository for training/finetuning GPTs of "Romance of the Three Kingdo
 ```三国演义GPT```
 
 
-### hack of Andrej Karpathy's nanogpt and nanochat project
+### Hack of Andrej Karpathy's `nanogpt` and `nanochat` project
 
-#### Sample
+#### Sample:
 
 ``` bash
 $ python sample.py  --start="大将军林飞曰，汝既以貂蝉许我，何相戏耶，蝉曰，"
